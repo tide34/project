@@ -1,1 +1,2 @@
-Content of index.md file.
+**Content of index.md file.**
+__Italic text__
